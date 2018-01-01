@@ -7,6 +7,7 @@ A stop watch, full screen analog and digital clock
 - add a flavour of themes
 - add a stop watch for countdowns
 - lets add a reverse clock too, that turns in anti clockwise
+- a sand-dial animation will look yay!! 
 
 **Reference**
 - https://github.com/GiacomoLaw/clock
