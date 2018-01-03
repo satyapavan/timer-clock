@@ -12,3 +12,4 @@ A stop watch, full screen analog and digital clock
 **Reference**
 - https://github.com/GiacomoLaw/clock
 - http://giacomolaw.me/clock/
+- https://github.com/krizsoo/Pomodoro-Clock
