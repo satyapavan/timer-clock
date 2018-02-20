@@ -1,6 +1,29 @@
-header div {
-	background-color: lightblue;
-	border: 5px;
-	 margin: 5px;
-	 padding: 5px;
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* this is needed to be overridden explicetely as above '*' is not working for button's. */
+button {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar-brand {
+	font-family: 'Caveat', cursive;
+}
+
+.digital-time {
+    font-family: 'Iceland', cursive;
+    font-size: 1500%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.analog-time {
+    text-align: center;
+    vertical-align: middle;
+}
+
+canvas {
+    text-align: center;
+    vertical-align: middle;
 }
