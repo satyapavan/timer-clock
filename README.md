@@ -1,3 +1,6 @@
+**Feb 21st, 2018**
+I have realized that it is not going to be very beneficial for me with spending time over canvas and images. So I have abandoned this repo for now. But I will pick this up at a later point of time for hobby purposes.
+
 # timer-clock
 A stop watch, full screen analog and digital clock 
 
