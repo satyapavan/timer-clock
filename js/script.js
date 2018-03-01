@@ -38,6 +38,10 @@ function paintAnalog() {
 
 window.addEventListener("DOMContentLoaded", function() {
 
+	// start the board with analog clock rather than a dummy page
+	intervalId = setInterval(paintAnalog, 1000);
+
+	// set the listeners
 	document.getElementById("id_digital").addEventListener("click", function(){
 
 		// make the current one not active

@@ -13,7 +13,12 @@ button {
 
 .digital-time {
     font-family: 'Iceland', cursive;
-    font-size: 30vw;
+    font-size: 22vw;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#main-content {
     text-align: center;
     vertical-align: middle;
 }
