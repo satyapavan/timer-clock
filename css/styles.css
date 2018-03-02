@@ -13,7 +13,7 @@ button {
 
 .digital-time {
     font-family: 'Iceland', cursive;
-    font-size: 22vw;
+    font-size: 22vw;  /* setting it to vw will make it responsive rather than setting pt and % */
     text-align: center;
     vertical-align: middle;
 }
